@@ -1,5 +1,6 @@
 # Seasonal-Thermocline-in-the-Global-Argentine-Basin
 
+The goal for this project was to visualize how the thermocline in a location changes as time passes.  More specifically,   CTD data was collected from a number of depths in the Global Argentine Basin array of sensors on the Ocean Observatories Initiative website.
 
 Links to data sources.
 
